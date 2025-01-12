@@ -8,10 +8,10 @@
 <p align="center">
 <a href="https://dio.me/">
     <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        src="https://github.com/mona-col/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20Monaliza.MP3" 
         alt="Renda na Rede">
 </a>
-<a href="https://dio.me/">
+<a href="https://github.com/mona-col/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20Monaliza.MP3/">
 <img 
     src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
     alt="🔴 LIVE CODE">
@@ -64,34 +64,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Monaliza Collaço]
