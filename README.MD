@@ -9,7 +9,7 @@
 <a href="https://dio.me/">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+        alt="Renda na Rede">
 </a>
 <a href="https://dio.me/">
 <img 
