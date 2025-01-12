@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://dio.me/">
     <img 
-        src="https://github.com/mona-col/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20Monaliza.MP3" 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="Renda na Rede">
 </a>
 <a href="https://github.com/mona-col/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20Monaliza.MP3/">
