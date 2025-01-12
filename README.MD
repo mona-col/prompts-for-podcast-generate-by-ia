@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="Renda na Rede: Dicas e sacadas para turbinar sua renda extra na internet"
     width="300"
 />
 </p>
