@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/mona-col/prompts-for-podcast-generate-by-ia/blob/main/assets/CAPA.png"
     width="300"
 />
 </p>
